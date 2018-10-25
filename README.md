@@ -15,5 +15,5 @@ DrawHouse.py
 Launching instructions:
 -----------------------
 
-1. Open terminal and traverse to folder when DrawHouse.py is located
+1. Open terminal and traverse to folder where DrawHouse.py is located
 2. Run DrawHouse.py and enter desired X & Y values which will serve as an anchor point for the house to be drawn from
